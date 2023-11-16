@@ -1,4 +1,4 @@
-### Hi there, I am Joshua & Welcome to my Profile!👋
+### <h1>  there, I am Joshua & Welcome to my Profile!👋 <h1>
 
 - 🔭 I'm currently studing CS - Infrastructure at TU Dublin
 - 🌱 I'm currently learning HTML, CSS, JS
