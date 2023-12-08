@@ -1,6 +1,6 @@
 ### <h1> Hello there!, I am Joshua & Welcome to my Profile!👋 <h1>
 
-- 🔭 I'm currently studing <h2> CS - Infrastructure at TU Dublin <h2>
+- 🔭 I'm currently studing <h2> Computer Science - Infrastructure at TU Dublin <h2>
 - 🌱 I'm currently learning OOP w/ Python & Java
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
