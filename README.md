@@ -1,16 +1,30 @@
-### <h1> Hello there!, I am Joshua & Welcome to my Profile!👋 <h1>
+# 👋 Hello, I'm Joshua!
 
-- 🔭 I'm currently studing <h2> Computer Science - Infrastructure at TU Dublin - 2nd Year<h2>
-- 🌱 I'm currently learning OOP w/ Python & Java
--  🔎In my spare time, learning ->  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
-- 📫 How to reach me: Linkedin : ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+I'm a second-year Computer Science Infrastructure student in Technological University Dublin, Welcome to my GitHub profile! Here you'll find a mix of my personal projects, assignments
 
-### <h2> Current Tech Stack <h2>
-- 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- IDE : ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🚀 Quick Overview
 
-### Also
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🎓 **Education:** Currently pursuing a degree in Computer Science - Infrastructure.
+- 💼 **Work:** Actively seeking internships and opportunities to apply my skills in real-world scenarios.
+- 🌱 **Learning:** Always exploring new technologies, currently focused on HTML, CSS, JAVASCRIPT & JAVA 
+- 🤔 **Interests:** Coding, Software Development, Web Development, Space Science
 
+## 🔧 Technologies & Tools
+
+I'm familiar with:
+
+- **Programming Languages:** Python, Java, C, SQL, HTML, CSS].
+- **Web Technologies:** [If applicable, mention technologies related to web development you've worked with].
+- **Version Control:** Git and GitHub.
+- **IDE:** Visual Studio Code, Pycharm, Eclipse
+
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/joshuasunilmathew
+
+
+## 📂 My Projects
+
+Here are some of my notable projects:
+
+SpaceShooter - Microprocessors Game for my Microprocessors Module! 🚀
