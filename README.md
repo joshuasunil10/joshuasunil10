@@ -26,17 +26,17 @@ I'm familiar with:
 
 Here are some of my notable projects:
 
-GAMES 
-SpaceShooter - Microprocessors Game for my Microprocessors Module! 🚀 
+### GAMES
+SpaceShooter - Microprocessors Game for my Microprocessors Module! 🚀 <br> <br>
 Cult Of Shadows - Python Object Oriented Text-based Adventure game! ☠️
 
-DEVELOPMENT
-MySearchEngine - Java Search Engine 🔎
+### DEVELOPMENT
+MySearchEngine - Java Search Engine 🔎 <br> <br>
 ATM Pin Managment System - written in C
 
-WEB DEVELOPMENT
+### WEB DEVELOPMENT
 
-NotKFC - a restaurant website, created using PHP, CSS 
+NotKFC - a restaurant website, created using PHP, CSS <br> <br>
 TU Dublin, School of Computer Science Website - written in HTML + CSS
 
 
