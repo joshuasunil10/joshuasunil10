@@ -19,7 +19,7 @@ I'm familiar with:
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/joshuasunilmathew
-- Website (work in progress)[ http://www.joshuasunilmathew.vercel.app/](https://joshuasunilmathew.vercel.app)
+Open to Grad Roles, Internships and all sorts of projects! 
 
 
 ## 📂 My Projects
